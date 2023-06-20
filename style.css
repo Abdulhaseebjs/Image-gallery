@@ -1,0 +1,36 @@
+.main-head{
+    background-color: black;
+    color: wheat;
+    text-align: center;
+}
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+}
+
+  a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+  }
+  
+
+  
+  
+  .previous {
+    background-color: #f1f1f1;
+    color: black;
+  }
+  
+  .next {
+    background-color: #04AA6D;
+    color: white;
+  }
+ .align{
+  align-items: end;
+ }
+  
+ 
